@@ -4,6 +4,6 @@
 	           type="javax.sql.DataSource"
 	           driverClassName="com.mysql.jdbc.Driver"
 	           url="jdbc:mysql://106.10.54.201:3306/funweb"
-	           username="root"
-	           password="root1#"/>
+	           username="fun"
+	           password="funpw"/>
 </Context>
